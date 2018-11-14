@@ -4,5 +4,6 @@ conditions:
   - operator: eq
     property: customProperty-bool-TRUE
     operand: true
-  - operator: is-undefined
+  - operator: eq
     property: customProperty-double-3.3
+    operand: 2.4
