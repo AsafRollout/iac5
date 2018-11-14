@@ -4,6 +4,6 @@ conditions:
   - operator: eq
     property: customProperty-bool-TRUE
     operand: false
-  - operator: eq
+  - operator: gt
     property: customProperty-double-3.3
     operand: 5.2
