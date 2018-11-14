@@ -1,6 +1,5 @@
 type: target-group
 name: op2
 conditions:
-  - operator: eq
+  - operator: is-true
     property: customProperty-bool-TRUE
-    operand: true
