@@ -3,4 +3,3 @@ name: op2
 conditions:
   - operator: is-false
     property: customProperty-bool-TRUE
-    operand: false
