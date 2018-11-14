@@ -4,6 +4,6 @@ conditions:
   - operator: eq
     property: customProperty-bool-TRUE
     operand: false
-  - operator: semver-eq
-    property: customProperty-double-1.2
-    operand: '5'
+  - operator: eq
+    property: customProperty-double-3.3
+    operand: 3.5
