@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://localhost.rollout.io:9000/ex/5a8edeab17ee614c3a584eb0
+flag: trueFlag
+type: experiment
+name: truer flag
+platforms:
+  - name: Android
+    value: false
+    conditions:
+      - {}
+      - version:
+          operator: semver-eq
+          semver: '1.0'
