@@ -1,8 +1,10 @@
 type: target-group
 name: op2pl5
 conditions:
-  - operator: eq
-    property: customProperty-bool-TRUE
-    operand: true
+  - operator: in-array
+    property: rox.platform
+    operand:
+      - aaa
+      - bbb
   - operator: is-undefined
     property: customProperty-double-3.3
