@@ -1,0 +1,6 @@
+flag: flag3
+type: experiment
+name: flag 3
+platforms:
+  - name: Android
+    value: true
