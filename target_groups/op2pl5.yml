@@ -1,10 +1,8 @@
 type: target-group
 name: op2pl5
 conditions:
-  - operator: in-array
+  - operator: regex
     property: rox.platform
-    operand:
-      - aaa
-      - bbb
+    operand: aaa
   - operator: is-undefined
     property: customProperty-double-3.3
