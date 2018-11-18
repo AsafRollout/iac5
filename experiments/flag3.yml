@@ -1,0 +1,9 @@
+# This file was edited by rollout.io
+# URL: https://localhost.rollout.io:9000/ex/5bedc66d2dc3e67eecd30368
+flag: flag3
+type: experiment
+name: flag 3
+platforms:
+  - name: Android
+    value: true
+value: true
