@@ -1,0 +1,24 @@
+# This file was edited by rollout.io
+# URL: https://localhost.rollout.io:9000/ex/5a96e22c17ee614c3a585324
+flag: enumVariant3
+type: experiment
+name: enum variant 3
+availableValues:
+  - C
+  - B
+  - A
+platforms:
+  - name: Android
+    value:
+      - option: B
+        percentage: 50
+      - option: A
+        percentage: 50
+    conditions:
+      - value: []
+      - value: []
+      - value: []
+      - value: A
+        group:
+          name: op2
+      - value: B
