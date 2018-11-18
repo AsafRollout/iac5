@@ -3,4 +3,4 @@ name: op2
 conditions:
   - operator: eq
     property: customProperty-bool-TRUE
-    operand: true
+    operand: false
