@@ -1,0 +1,5 @@
+type: target-group
+name: op2
+conditions:
+  - operator: is-false
+    property: customProperty-bool-TRUE
