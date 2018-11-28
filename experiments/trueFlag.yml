@@ -7,7 +7,9 @@ platforms:
   - name: Android
     value: false
     conditions:
-      - {}
+      - dependency:
+          flag: enumVariant3
+          value: B
       - version:
           operator: semver-eq
           semver: '1.0'
