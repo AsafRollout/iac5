@@ -1,0 +1,314 @@
+April 9 , 2019
+Asaf Meir
+Frishman 33
+Tel Aviv-Yafo, Israel
+Dear Asaf:
+As you likely know, Dedoco Ltd. (the “Company”) has entered into a Share Purchase
+Agreement (the “Purchase Agreement”) with CloudBees, Inc. (“CloudBees”). On behalf of the
+Company, I am pleased to confirm your continued employment in the position of Senior
+Software Engineer. This position will continue to report to the VP, Engineering. Your primary
+work location will continue to be Frishman 33, Tel Aviv-Yafo, Israel.
+The effective date for the application of the following terms (“Effective Date”) will align with the
+Closing (as defined in the Purchase Agreement). This offer of continued employment (this
+“Offer”) is contingent upon you fully cooperating with, and successfully completing all
+conditions, as described below.
+As of the Effective Date, your compensation and benefits will consist of the following
+components:
+1. Working Hours. You shall be employed on a 5-day workweek basis, 42 hours a week.
+Your rest day shall be Saturday.
+2. Salary. Your monthly salary will be NIS 35,000 gross (NIS 420,000 gross annually) (the
+“Salary”) payable in accordance with the Company’s current payroll policies, no later
+than the 9
+th day of each month and subject to customary deductions and withholdings,
+as required by law. Without derogating from section 3 below, your Salary is calculated
+based on two separate components as follows:
+1. A gross monthly base salary of NIS 24,500 (the “Base Salary”).
+2. A gross monthly global compensation for overtime hours of work in the amount of
+NIS 10,500 (the “Global Overtime Compensation”), which represents payment
+for approximately 60 overtime hours.
+
+The Global Overtime Compensation has been determined based on the Company’s
+knowledgeable estimation (according to the Company’s experience with similar positions within
+the Company) of the average of overtime hours per month that your position requires. All
+salary-based social benefits will be calculated based on the Salary (meaning not only the Base
+Salary but also based on the Global Overtime Compensation), except if detailed otherwise in
+this Offer.
+
+1. Scope. This is a full time position; accordingly, you agree to devote your full business
+time, attention and best efforts to the performance of your duties and to the furtherance
+of the Company’s interests during your employment.
+2. Options.
+1. Subject to board approval, you will receive a stock option to purchase 40,174
+shares of Common Stock of the Company (the “Retention Options”), with 25%
+of such shares vesting on the one-year anniversary of the Effective Date and the
+remainder vesting in 36 equal monthly installments thereafter (subject to your
+continued employment by the Company through the applicable vesting date);
+provided, however, that in the event that you terminate your employment with the
+Company for Good Reason or the Company terminates your employment without
+Cause (as each such term is defined below) prior to the third anniversary of the
+Effective Date, then upon such termination date a number of options equal to (i)
+75% of the Retention Options minus (ii) any then vested Retention Options, if
+any, shall become immediately vested. The Retention Options will be issued
+pursuant to the Company’s Amended and Restated Equity Incentive Plan (the
+“Plan”), will have an exercise price per share set at the fair market value as
+determined by the Board of Directors at the time of grant, and will be subject to
+all of the terms and conditions set forth in the Plan and in the stock option
+agreement covering such Retention Options to be executed by you and the
+Company. These documents will be forthcoming.
+2. In addition, subject to board approval, you will receive an additional stock option
+to purchase 10,000 shares of Common Stock of the Company (the “Additional
+Options”), with 25% of such shares vesting on the one-year anniversary of the
+Effective Date and the remainder vesting in 36 equal monthly installments
+thereafter (subject to your continued employment by the Company through the
+applicable vesting date). The Additional Options will be issued pursuant to the
+Plan, will have an exercise price per share set at the fair market value as
+determined by the Board of Directors at the time of grant, and will be subject to
+all of the terms and conditions set forth in the Plan and in the stock option
+agreement covering such Additional Options to be executed by you and the
+Company. These documents will be forthcoming.
+
+3. Retention Bonus.
+If the Closing is completed, you shall be eligible to earn two one-off retention bonus payments
+each in the amount of $34,000 gross (less required deductions) (each, a “Retention Bonus
+Amount”), which, if earned, will be payable in accordance with the terms of this Offer. The first
+Retention Bonus Amount will be earned on the first anniversary of Closing (the “First Bonus
+Date”) and the second Retention Bonus Amount will be earned on the second anniversary of
+Closing (the “Second Bonus Date”); provided that the applicable Retention Bonus Amount will
+not be earned, and you shall have no right to receive the applicable Retention Bonus Amount, if,
+on the First Bonus Date or the Second Bonus Date, as applicable, you are no longer employed
+
+by the Company or either you or the Company has given notice to terminate your employment
+with the Company; provided further that in the event that you terminate your employment for
+Good Reason or the Company terminates your employment without Cause (as each such term
+is defined below) prior to the Second Bonus Date, then you shall receive, within ten (10) days
+following the date of such termination of employment, a portion of the Retention Bonus Amount
+equal to (1) the Retention Bonus Amount multiplied by 75% minus (2) any portion of the
+Retention Bonus Amount that has previously been paid to you. For purposes hereof: “Good
+Reason” shall be limited to your termination of your employment with the Company within thirty
+days after the occurrence of either of the following events: (x) any reduction in your
+compensation terms, taken as a whole which is not applicable to all of Company’s employees,
+(y) a material reduction in your roles or responsibilities, or (z) you being required to generally
+report on a regular basis to a Company facility that is more than 50 miles from the primary
+location that you generally report to as of the Closing; and “Cause” shall mean (i) your willful
+failure or substantial refusal to render services to the Company or any of its affiliates as
+reasonably requested by the Company, (ii) willful misconduct or breach of the terms of this
+Offer, [Confidential Disclosure, Non-Solicitation and Developments Agreement] or any similar
+agreement between you and the Company or any Company affiliate, (iii) the commission by you
+of an act of fraud or embezzlement upon the Company or any Company affiliate or any of their
+respective clients, (iv) your deliberate, material disregard of the rules or policies of the Company
+or of any Company affiliate, (v) your conviction, or your plea of guilty, no contest or nolo
+contendere, with respect to a crime that constitutes a felony or other crime that constitutes a
+misdemeanor involving moral turpitude, that causes a direct or indirect material loss, damage or
+injury to the Company or any Company affiliate or that, in the judgment of the Company, would
+tend to generate adverse publicity toward the Company or any Company affiliate, (vi) your
+commission of an act which constitutes unfair competition with the Company or any Company
+affiliate, or (viii) you have performed any act that entitles the Company legally to dismiss you
+without paying you severance pay, in whole or in part, in connection with such dismissal.
+The potential retention bonus payments specified above are of a unique and conditional nature
+and, for the avoidance of doubt, shall not be deemed to be a salary component for any purpose,
+including for the accrual of any social benefits or severance pay. For the avoidance of any
+doubt, nothing herein indicates any promise of a fixed term employment.
+1. Discretionary Benefits. You will also be eligible to receive such benefits as the
+Company may from time to time offer to similarly situated employees, subject to
+applicable vesting periods and eligibility requirements. Where any such benefit is paid to
+you hereunder, being a conditional payment, it shall not constitute a salary component
+for any purpose, including for the purpose of calculating any fringe benefits. The
+Company reserves the right to change or cancel such benefits entitlement at any time
+and for any reason, in its sole discretion.
+2. Vacation. You shall be entitled to 15 working days as vacation days (“Vacation Days”),
+with respect to each full year of continuous employment with the Company but no less
+than the amount required by the provisions of the Annual Leave Law, 1951 (“Leave
+Law”), as amended from time to time. You shall be entitled to carry forward the unused
+
+Vacation Days in accordance with the Company's policies as shall be from time to time.
+Any accrued Vacation Days which shall exceed the Company's accrual quota shall be
+forfeit and for the avoidance of any doubt shall not be redeemed upon termination.
+3. Sick Leave. You shall be entitled to sick leave in accordance with the provisions of the
+Sick Pay Law, 1976. In the event you are absent from work due to illness, you shall
+notify the Company of the illness as soon as possible.
+4. Recuperation Pay. You shall be paid recuperation pay (“Dmey Havra’a”) in accordance
+with the applicable extension order.
+5. Study Fund (“Keren Hishtalmut”).
+6. Travel Allowance. You shall be entitled to payment of travel allowance, in accordance
+with applicable law.
+7. Pension Arrangement. You shall be entitled to contributions to a pension arrangement
+of your choice (the “Pension Arrangement”), at the following monthly rates:
+1. The Company shall contribute:
+1. 8.33% of the Salary towards the severance pay component; and
+2. 6.5% of the Salary towards the pension component.
+In the case you are insured in a mangers insurance policy or a provident fund (which is not a
+pension fund), the said rate shall include the rate of contributions towards the disability
+insurance (Bituach Ovdan Kosher Avodah) as applicable from time to time, ensuring a loss of
+earning payment of 75% of the Salary, but no less than 5% towards the pension component, all
+subject to the terms of the Extension Order regarding the Increase of Pension Contributions -
+2016 (the “Pension Order 2016”). In accordance with the terms of the Pension Order 2016, if
+the said rate shall not be sufficient to insure you in disability insurance, the total rate of
+contributions shall increase up to 7.5% of the Salary.
+
+1. The Company shall also deduct 6% of the Salary to be paid on your account
+towards the Pension Arrangement.
+2. It is hereby agreed that the settlement regulated in the General Order as
+amended (attached hereto as Appendix A) published under Section 14 of the
+Severance Pay Law, 5723-1963 (the “Severance Pay Law”) applies. The
+Company’s contributions to the Pension Arrangement will therefore constitute
+your entire entitlement to severance pay in respect of the paid Salary, in place of
+any severance pay to which you otherwise may have become entitled at law.
+The Company waives all rights to have its payments refunded, unless your right to severance
+pay is denied by a judgment according to Sections 16 or 17 of the Severance Pay Law or in the
+event that you withdraw monies from the pension arrangement in circumstances other than an
+Entitling Event, where an “Entitling Event” means death, disablement or retirement at the age
+of 60 or over.
+1. Business Expenses. Reasonable, necessary, and customary expenses will be
+reimbursed to you in accordance with the Company’s current Expense policy.
+2. Term and Termination.
+
+1. Your employment with the Company shall continue for an un-fixed term, unless
+terminated in accordance with the terms of this Offer.
+2. Termination of this Offer shall be by either party giving prior notice of 30 days
+(“Prior Notice”). During the Prior Notice period, you shall attend work, continue
+to perform the duties required by your position within the Company, and train
+your successor unless the Company instructs otherwise in writing.
+3. Notwithstanding the above, the Company may, in its sole discretion:
+1. terminate your employment without Prior Notice in whole or in part, by giving you notice
+together with payment in lieu of all or part of the Prior Notice, as the case may be,
+according to law, in which case your employment shall be deemed to have ceased on
+the date of the receipt of the notice from the Company; and/or
+2. instruct you not to attend work during the Prior Notice period or any part of it, in which
+case, you will continue to receive your salary and other benefits to which you are entitled
+under this Offer.
+1. Notwithstanding the above, the Company shall be entitled to terminate your
+employment forthwith, without Prior Notice or payment in lieu of notice upon the
+occurrence of Cause (as defined above).
+
+1. Confidential Disclosure, Non-Solicitation and Developments. As a condition of your
+continued employment following the Closing, you agree to execute the Company’s
+[Confidential Disclosure, Non-Solicitation and Developments Agreement]. In this
+agreement, you will, among other things, confirm our understanding that your
+employment by the Company and the performance of your duties for the Company as
+contemplated will not cause you to breach any fiduciary or other duty, covenant, or
+understanding to which you are a party or by the terms of which you are bound. In
+addition, prior to the Effective Date you agree to provide the Company with a copy of all
+non-disclosure agreements and other agreements entered into in your capacity as an
+employee, consultant or agent and to which you are a party and remain bound. We also
+ask that, if you have not already done so, you disclose to the Company any and all
+agreements that may affect your eligibility to continue to be employed by the Company
+following the Closing, or limit the manner in which you may be employed (including, but
+not limited to, any non-compete agreements). It is the Company’s understanding that no
+such agreements exist that will prevent you from fully performing the duties of your
+position and you represent that such is the case. Moreover, you agree that, during the
+term of your employment with the Company, you will not engage in any other
+employment, occupation, consulting, or other business activity directly related to the
+business in which the Company is now involved or becomes involved during the term of
+your employment, nor will you engage in any other activities that conflict with your
+obligations to the Company. Similarly, you agree not to bring any third-party confidential
+information to the Company, and that you will not in any way utilize any such information
+in performing your duties for the Company.
+In consideration of this Offer, and the benefits related thereto, you agree as follows:
+
+○ You acknowledge that as of the date you sign this Offer, you have been paid and
+have received all outstanding entitlements arising out of or in any way connected
+with your employment with the Company until the Effective Date in accordance
+with any law or agreement, including (without limitation) all salary, wages,
+bonuses (including an annual bonus for 2018, if any), vacation, grants, benefits,
+perquisites, commissions, travel pay, change of control benefits and payments,
+stock, stock options, and any and all other benefits and compensation due to you
+for with respect to your work with the Company until the Effective Date. The
+above shall not apply with respect to 13.462 (the “Accrued Entitlements”).
+○ You acknowledge that you are not aware of any basis for legal claims against the
+Company, CloudBees, or any of their respective agents, employees, officers or
+directors. You further confirm that other than with respect to the Accrued
+Entitlements, neither you nor anyone on your behalf has or shall have any claims
+or demands of any kind against the Company, CloudBees, or anyone on their
+behalf, with respect to your employment with the Company until the Effective
+Date (according to any law or agreement, including your previous employment
+agreement) and/or with respect to the Purchase Agreement.
+○ Without derogating from the foregoing, you release the Company, its
+predecessor, successor, CloudBees, and/or subsidiary corporations, and their
+respective agents, employees, officers, directors, shareholders, related
+companies, and its actual and purported (together “Releasees”) from all claims,
+suits, debts, liabilities, promises or causes of action whatsoever, known or
+unknown, arising from, or in any way related to, your employment with the
+Company, or any other acts or omissions of any Releasee, occurring on or before
+the date you sign this Offer.
+
+1. Notification of Employment Conditions. This Offer constitutes a Notification of
+Employment Conditions pursuant to the Notice to the Employee and Job Candidate Law
+(Employment Conditions and Candidate Screening and Selection), 5762-2002.
+We are extremely excited to continue your employment and work with you following the Closing,
+and believe that your continued employment will prove to be both challenging and rewarding.
+The foregoing terms supersede any prior discussions, oral or written, which we have had
+relating to your employment (including your previous employment agreement), and the other
+matters discussed in this Offer. Additionally, it is understood that from time to time, the
+Company reviews its benefits, policies, and practices and may alter or change them at its
+discretion.
+If the foregoing terms are acceptable to you, please sign and date the original copy of this Offer
+by April 15, 2019. Please e-fax or scan a signed copy to the attention of Ellen Thorne at
+ethorne@cloudbees.com
+
+[Remainder of page intentionally left blank; signature(s) follow]
+
+If you have any questions, please feel free to contact us.
+Sincerely,
+CloudBees, Inc.
+
+I have read, understand and accept the foregoing terms and conditions of my continued
+employment. I further understand that while my rate of pay, benefits, job title and job duty may
+change from time to time without a written modification to this offer of continued employment,
+changes will not affect the validity of this offer of continued employment with the Company.
+ACCEPTED:
+Signature: __________________________________________
+NAME:
+DATE: ________________, 2019
+
+Expected Effective Date: May 10, 2019
+
+Appendix A
+General Order and Confirmation Regarding Payments of Employers to Pension Funds
+and Insurance Funds instead of Severance Pay
+
+The General Order below is expected to be amended in order for it to correspond with the
+relevant updates as prescribed under law. It should be noted that the specific
+contribution rates set out in this General Approval are subject to the terms of the
+Pension Order 2016, as detailed in the Employment Agreement.
+Pursuant to the power granted to me under section 14 of the Severance Pay Law 5723-1963
+(“Law”) I hereby confirm that payments paid by an employer, commencing the date hereof, to
+an employee’s comprehensive pension fund into a provident fund which is not an insurance
+fund, as defined in the Income Tax Regulations (Registration and Management Rules of a
+Provident Fund) 5724-1964 (“Pension Fund”), or to a Manager’s Insurance Fund that includes
+the possibility of an allowance or a combination of payments to an Allowance Plan and to a plan
+which is not an Allowance Plan in an Insurance Fund (“Insurance Fund”), including payments
+which the employer paid by combination of payments to a Pension Fund and to an Insurance
+Fund whether there exists a possibility in the Insurance Fund to an allowance plan (“Employer
+Payments”), will replace the severance pay that the employee is entitled to for the salary and
+period of which the payments were paid (“Exempt Wages”) if the following conditions are
+satisfied:
+(1) Employer Payments –
+(A) For Pension Funds are not less than 14.33 % of the Exempt Wages or 12% of the
+Exempt Wages, if the employer pays for his employee an additional payment on behalf of the
+severance pay completion for a providence fund or Insurance Fund at the rate of 2.33% of the
+Exempt Wages. If an employer does not pay the additional 2.33% on top of the 12%, then the
+payment will constitute only 72% of the Severance Pay.
+(B) To the Insurance Fund are not less than one of the following:
+(1) 13.33% of the Exempt Wages if the employer pays the employee additional payments to
+insure his monthly income in case of work disability, in a plan approved by the Supervisor of the
+Capital Market, Insurance and Savings in the Finance Ministry, at the lower of, a rate required to
+insure 75% of the Exempt Wages or 2.5% of the Exempt Wages (“Disability Payment”).
+(2) 11% of the Exempt Wages if the employer pays an additional Disability Payment and in
+this case the Employer Payments will constitute only 72% of the employee’s severance pay; if,
+in addition to the abovementioned sum, the employer pays 2.33% of the Exempt Wages for the
+purpose of Severance Pay completion to providence fund or Insurance Funds, the Employer
+Payments will constitute 100% of the severance pay.
+(2) A written agreement must be made between the employer and employee no later than 3
+months after the commencement of the Employer Payments that include –
+
+(A) the agreement of the employee to the arrangement pursuant to this confirmation which
+details the Employer Payments and the name of the Pension Fund or Insurance Fund; this
+agreement must include a copy of this confirmation;
+(B) an advanced waiver of the employer for any right that he could have to have his
+payments refunded unless the employee’s right to severance pay is denied by judgment
+according to sections 16 or 17 of the Law, or in case the employee withdrew monies from the
+Pension Fund or Insurance Fund not for an Entitling Event; for this matter, Entitling Event or
+purpose means death, disablement or retirement at the age of 60 or over.
+(3) This confirmation does not derogate from the employee’s entitlement to severance pay
+according to the Law, Collective Agreement, Extension Order or personal employment
+agreement, for any salary above the Exempt Wages.
